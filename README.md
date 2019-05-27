@@ -1,5 +1,5 @@
 # Batch-Utilities
-A collection of useful batch files
+A collection of useful batch files.
 
 **dl** - Download music videos from the web, and automatically place them in the appropriate folder.
 
