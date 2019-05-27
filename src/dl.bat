@@ -7,7 +7,7 @@ setlocal enableextensions
 
 rem CONFIG
 rem Directories
-set cacheDir=%APPDATA%\Xanadu\dl\
+set cacheDir=%APPDATA%\soulofmischief\dl\
 set library=%HOMEPATH%\Music\Library\
 rem END CONFIG
 
