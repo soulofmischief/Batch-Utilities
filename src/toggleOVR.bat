@@ -10,7 +10,7 @@ rem Redirect output and just display error level.
 sc query OVRService | findstr /i "STATE" | findstr /i "STOPPED" 1>nul
 echo Error Level: %ERRORLEVEL%
 
-rem Toggle OVR based on erro
+rem Toggle OVR based on error level.
 if %ERRORLEVEL%==0 (
 	rem Enable OVR
 	echo Enabling OVR...
